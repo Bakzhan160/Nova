@@ -36,7 +36,7 @@ const products = [
     category: "Smartphones",
     price: 850000,
     description: "Apple flagship smartphone with advanced camera and powerful performance.",
-    image: "/images/iphone17promax.jpg"
+    image: "/images/iphone17promax.jpeg"
   },
   {
     id: 2,
@@ -44,7 +44,7 @@ const products = [
     category: "Laptops",
     price: 1200000,
     description: "Powerful laptop for professional work, programming and creativity.",
-    image: "/images/macbookprom5.jpg"
+    image: "/images/macbookprom5.jpeg"
   },
   {
     id: 3,
@@ -52,7 +52,7 @@ const products = [
     category: "Audio",
     price: 145000,
     description: "Premium wireless earbuds with active noise cancellation.",
-    image: "/images/airpodspro3.jpg"
+    image: "/images/airpodspro3.jpeg"
   },
   {
     id: 4,
@@ -60,7 +60,7 @@ const products = [
     category: "Wearables",
     price: 350000,
     description: "Premium smartwatch with a durable design and fitness features.",
-    image: "/images/applewatchultra.jpg"
+    image: "/images/applewatchultra.jpeg"
   },
   {
     id: 5,
@@ -68,7 +68,7 @@ const products = [
     category: "Audio",
     price: 220000,
     description: "Wireless headphones with premium sound and noise cancellation.",
-    image: "/images/sonywh1000xm6.jpg"
+    image: "/images/sonywh1000xm6.jpeg"
   },
   {
     id: 6,
@@ -76,7 +76,7 @@ const products = [
     category: "Gaming",
     price: 420000,
     description: "Next-level gaming console with powerful graphics and performance.",
-    image: "/images/ps5pro.jpg"
+    image: "/images/ps5pro.jpeg"
   },
   {
     id: 7,
@@ -84,7 +84,7 @@ const products = [
     category: "Tablets",
     price: 650000,
     description: "Advanced tablet for creativity, entertainment and productivity.",
-    image: "/images/ipadpro.jpg"
+    image: "/images/ipadpro.jpeg"
   },
   {
     id: 8,
@@ -92,7 +92,7 @@ const products = [
     category: "Cameras",
     price: 390000,
     description: "Compact mirrorless camera for photography and video creation.",
-    image: "/images/canoneosr50.jpg"
+    image: "/images/canoneosr50.jpeg"
   },
   {
     id: 9,
@@ -100,7 +100,7 @@ const products = [
     category: "Audio",
     price: 95000,
     description: "Portable Bluetooth speaker with powerful sound.",
-    image: "/images/jblcharge6.jpg"
+    image: "/images/jblcharge6.jpeg"
   },
   {
     id: 10,
@@ -108,7 +108,7 @@ const products = [
     category: "Smartphones",
     price: 780000,
     description: "Premium Samsung smartphone with an advanced camera and display.",
-    image: "/images/s26ultra.jpg"
+    image: "/images/s26ultra.jpeg"
   },
   {
     id: 11,
@@ -116,7 +116,7 @@ const products = [
     category: "Laptops",
     price: 950000,
     description: "High-performance gaming laptop for demanding games and applications.",
-    image: "/images/asusrog.jpg"
+    image: "/images/asusrog.jpeg"
   }
 ];
 
